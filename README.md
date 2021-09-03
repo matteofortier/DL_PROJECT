@@ -1,4 +1,4 @@
-# NLP_PROJECT
+# DL_PROJECT
 
 ### Deliverables
 
