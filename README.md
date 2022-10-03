@@ -46,4 +46,4 @@ Finally there were 9 labels that a game could have: Sports, Adventure, Action, S
 
 The project used powerpoint for the presentation and the python visualisation libraries for the visuals. 
 
-<object data="presentation.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="./presentation.pdf" width="1000" height="1000" type='application/pdf'></object>
